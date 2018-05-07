@@ -1,0 +1,2 @@
+# R-Project
+The main goal of this project is to understand and measure variables affecting patient satisfaction and healthcare quality. The HCAHPS survey is considered in measuring these factors as it is based on nine key topics based on communication with doctors, communication with nurses, responsiveness of hospital staff, pain management, communication about medicines, discharge information, cleanliness of the hospital environment, quietness of the hospital environment, and transition of care.  
